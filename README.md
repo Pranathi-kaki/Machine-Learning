@@ -11,7 +11,9 @@ This repo contains multiple ML projects I've worked on as part of my learning an
 A machine learning model that predicts whether an object detected by sonar is a rock or a mine using signal data from a submarine.
 
 > Algorithms used: Logistic Regression, SVM  
-> Accuracy: XX%
+> Accuracy:
+>  Training Accuracy: ~83.71%%
+>  Testing Accuracy: ~76.71%
 
 ---
 
